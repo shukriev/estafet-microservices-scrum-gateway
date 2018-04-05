@@ -70,5 +70,5 @@ application:
   services:
     project-api: http://localhost:8086
     sprint-api:  http://localhost:8088
-    story-api: http://localhost:8089
+    story-api: http://localhost:8189
     task-api: http://localhost:8090
